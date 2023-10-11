@@ -5,4 +5,4 @@ Funcionalidades:
 * Search de busca dos filmes
 * Detalhes(sinopse, descrição, orçamento e faturamento).
 
-<img src=""/> 
+<img src="https://raw.githubusercontent.com/MoisesLhuz/MovieList/master/MovieLista.jpg"/> 
